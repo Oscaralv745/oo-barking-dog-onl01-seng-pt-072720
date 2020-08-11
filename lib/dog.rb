@@ -14,3 +14,4 @@ class Dog
 end
 
 fide = Dog.new 
+fide.name = "Fido"
