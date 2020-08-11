@@ -15,3 +15,5 @@ end
 
 fide = Dog.new 
 fide.name = "Fido"
+
+fido.name
