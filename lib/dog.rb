@@ -13,7 +13,7 @@ class Dog
   end
 end
 
-fide = Dog.new 
-fide.name = "Fido"
+fido = Dog.new 
+fido.name = "Fido"
 
 fido.name
